@@ -1,5 +1,5 @@
 # Program that uses your mouse to create DVD screensaver
-
+![demo](./demo.gif)
 ## To use
 
 ```
